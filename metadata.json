@@ -1,0 +1,6 @@
+{
+  "name": "Text to MS-DOS EXE Header Studio",
+  "description": "Convert text into valid MS-DOS MZ executable headers and runnable 16-bit DOS .EXE binaries with interactive 8086 emulation, hex inspector, and multi-format exporters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
